@@ -1,6 +1,6 @@
 # Air Hockey Game 🏒🎮
 
-A fun and interactive **Air Hockey** game built with Java. Play against a friend or challenge the AI in this fast-paced game with real-time physics and a simple user interface.
+A fun and interactive **Air Hockey** game built with Java. Play against a friend with real-time physics and a simple user interface.
 
 ## How to Play 🏒
 
